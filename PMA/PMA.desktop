@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.9
+Type=Application
+Name=PMA
+Comment=mysqlGUI
+Exec=/set.sh
+Icon=/Ico/favicon
+Terminal=true
+StartupNotify=true
